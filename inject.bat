@@ -1,0 +1,1 @@
+smi.exe inject -p "Lethal Company" -a LethalCompanyHax.dll -n Hax -c Loader -m Load
